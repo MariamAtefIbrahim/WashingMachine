@@ -6,6 +6,7 @@ You are required to implement a washing machine with 2 stages:
 2. Stage 2 for spinning the clothes.
 
 Tasks:
+
 1) The user needs to start the washing machine using a button or any
 equivalent.
 2) The washing machine should pump the water using a water pump for a
